@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Faculty of Engineering",
+    "type": "academic",
+    "description": "Houses Civil, Electrical, and Mechanical departments.",
+    "lat": 13.0590,
+    "lng": 5.2385
+  },
+  {
+    "name": "Male Hostel B",
+    "type": "hostel",
+    "description": "Located near the Senate Building.",
+    "lat": 13.0575,
+    "lng": 5.2391
+  },
+  {
+    "name": "UDUS Library",
+    "type": "service",
+    "description": "Main academic library for students.",
+    "lat": 13.0588,
+    "lng": 5.2405
+  }
+]
