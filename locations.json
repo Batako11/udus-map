@@ -26,5 +26,26 @@
   "lat": 13.0602,
   "lng": 5.2395,
   "type": "academic"
-}
+},
+   {
+    "name": "City Campus",
+    "lat": 13.075,
+    "lng": 5.247,
+    "description": "UDUS City Campus",
+    "type": "academic"
+  },
+  {
+    "name": "UDUTH Teaching Hospital",
+    "lat": 13.071,
+    "lng": 5.250,
+    "description": "Usmanu Danfodiyo University Teaching Hospital",
+    "type": "service"
+  },
+  {
+    "name": "Faculty of Agriculture",
+    "lat": 13.059,
+    "lng": 5.241,
+    "description": "Main Agriculture Block",
+    "type": "academic"
+  }
 ]
