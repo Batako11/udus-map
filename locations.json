@@ -1,17 +1,11 @@
 [
+  // ======== MAIN CAMPUS: ADMINISTRATION & SERVICES ========
   {
-    "name": "Faculty of Engineering",
-    "type": "academic",
-    "description": "Houses Civil, Electrical, and Mechanical departments.",
-    "lat": 13.0590,
-    "lng": 5.2385
-  },
-  {
-    "name": "Male Hostel B",
-    "type": "hostel",
-    "description": "Located near the Senate Building.",
-    "lat": 13.0575,
-    "lng": 5.2391
+    "name": "Student Affairs Division",
+    "type": "service",
+    "description": "Handles student registration, welfare, and ID card issuance.",
+    "lat": 13.0584,
+    "lng": 5.2387
   },
   {
     "name": "UDUS Library",
@@ -20,32 +14,103 @@
     "lat": 13.0588,
     "lng": 5.2405
   },
+
+  // ======== MAIN CAMPUS: FACULTIES ========
   {
-  "name": "Faculty of Science",
-  "description": "Main science faculty building, houses Physics, Chemistry, Biology.",
-  "lat": 13.0602,
-  "lng": 5.2395,
-  "type": "academic"
-},
-   {
-    "name": "City Campus",
-    "lat": 13.075,
-    "lng": 5.247,
-    "description": "UDUS City Campus",
-    "type": "academic"
+    "name": "Faculty of Science",
+    "type": "academic",
+    "description": "Houses Physics, Chemistry, Biology, and related departments.",
+    "lat": 13.0602,
+    "lng": 5.2395
   },
   {
-    "name": "UDUTH Teaching Hospital",
-    "lat": 13.071,
-    "lng": 5.250,
-    "description": "Usmanu Danfodiyo University Teaching Hospital",
-    "type": "service"
+    "name": "Faculty of Engineering",
+    "type": "academic",
+    "description": "Houses Civil, Electrical, and Mechanical departments.",
+    "lat": 13.0590,
+    "lng": 5.2385
+  },
+  {
+    "name": "Faculty of Law",
+    "type": "academic",
+    "description": "Main Law faculty building with moot court and lecture halls.",
+    "lat": 13.0579,
+    "lng": 5.2401
+  },
+  {
+    "name": "Faculty of Education",
+    "type": "academic",
+    "description": "Focuses on teacher education, curriculum studies and educational foundations.",
+    "lat": 13.0608,
+    "lng": 5.2400
   },
   {
     "name": "Faculty of Agriculture",
-    "lat": 13.059,
-    "lng": 5.241,
-    "description": "Main Agriculture Block",
-    "type": "academic"
+    "type": "academic",
+    "description": "Main Agriculture Block including Agronomy, Soil Science, and Animal Science.",
+    "lat": 13.0590,
+    "lng": 5.2410
+  },
+
+  // ======== MAIN CAMPUS: LECTURE HALLS ========
+  {
+    "name": "LT1 - Large Theatre 1",
+    "type": "academic",
+    "description": "One of the largest lecture halls, used for major classes and events.",
+    "lat": 13.0589,
+    "lng": 5.2390
+  },
+  {
+    "name": "LT2 - Large Theatre 2",
+    "type": "academic",
+    "description": "Second large theatre for general lectures.",
+    "lat": 13.0587,
+    "lng": 5.2395
+  },
+  {
+    "name": "Old Lecture Hall",
+    "type": "academic",
+    "description": "Historic hall used for regular lectures.",
+    "lat": 13.0585,
+    "lng": 5.2402
+  },
+  {
+    "name": "New Lecture Hall",
+    "type": "academic",
+    "description": "Recently built hall with modern facilities.",
+    "lat": 13.0593,
+    "lng": 5.2398
+  },
+  {
+    "name": "Multipurpose Hall",
+    "type": "academic",
+    "description": "Used for exams, meetings, and large student gatherings.",
+    "lat": 13.0582,
+    "lng": 5.2389
+  },
+
+  // ======== MAIN CAMPUS: HOSTELS ========
+  {
+    "name": "Male Hostel B",
+    "type": "hostel",
+    "description": "Located near the Senate Building.",
+    "lat": 13.0575,
+    "lng": 5.2391
+  },
+
+  // ======== CITY CAMPUS & UDUTH ========
+  {
+    "name": "City Campus",
+    "type": "academic",
+    "description": "UDUS City Campus for College of Health Sciences.",
+    "lat": 13.075,
+    "lng": 5.247
+  },
+  {
+    "name": "UDUTH Teaching Hospital",
+    "type": "service",
+    "description": "Usmanu Danfodiyo University Teaching Hospital (UDUTH) for clinical training and healthcare.",
+    "lat": 13.071,
+    "lng": 5.250
   }
 ]
