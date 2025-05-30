@@ -19,5 +19,12 @@
     "description": "Main academic library for students.",
     "lat": 13.0588,
     "lng": 5.2405
-  }
+  },
+  {
+  "name": "Faculty of Science",
+  "description": "Main science faculty building, houses Physics, Chemistry, Biology.",
+  "lat": 13.0602,
+  "lng": 5.2395,
+  "type": "academic"
+}
 ]
